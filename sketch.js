@@ -68,7 +68,7 @@ function draw() {
   }
 }
 
-// Function to draw a polygon with a given number of sides
+
 function drawPolygon(x, y, radius, sides) {
   beginShape();
   for (let i = 0; i < sides; i++) {
